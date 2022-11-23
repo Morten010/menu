@@ -138,6 +138,7 @@ main{
     background-size: cover;
     background-position: center;
     overflow: hidden;
+    position: relative;
 }
 main .color-header{
     background-color: rgba(18, 18, 18, 0.3);
